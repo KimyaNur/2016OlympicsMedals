@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14471" started-at="2018-07-07T14:53:57Z" finished-at="2018-07-07T14:54:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14471" started-at="2018-07-07T14:53:57Z" finished-at="2018-07-07T14:54:11Z">
+      <class name="OlympicsMedals.self">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:OlympicsMedals.self@7cd62f43]" name="setUp" is-config="true" duration-ms="4849" started-at="2018-07-07T14:53:57Z" finished-at="2018-07-07T14:54:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:OlympicsMedals.self@7cd62f43]" name="setUpMethod" is-config="true" duration-ms="1790" started-at="2018-07-07T14:54:02Z" finished-at="2018-07-07T14:54:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="sortTest()[pri:1, instance:OlympicsMedals.self@7cd62f43]" name="sortTest" duration-ms="748" started-at="2018-07-07T14:54:03Z" finished-at="2018-07-07T14:54:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortTest -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:OlympicsMedals.self@7cd62f43]" name="setUpMethod" is-config="true" duration-ms="438" started-at="2018-07-07T14:54:04Z" finished-at="2018-07-07T14:54:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="theMost()[pri:2, instance:OlympicsMedals.self@7cd62f43]" name="theMost" duration-ms="2580" started-at="2018-07-07T14:54:05Z" finished-at="2018-07-07T14:54:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- theMost -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:OlympicsMedals.self@7cd62f43]" name="setUpMethod" is-config="true" duration-ms="414" started-at="2018-07-07T14:54:07Z" finished-at="2018-07-07T14:54:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="silverEqual18()[pri:3, instance:OlympicsMedals.self@7cd62f43]" name="silverEqual18" duration-ms="1012" started-at="2018-07-07T14:54:08Z" finished-at="2018-07-07T14:54:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- silverEqual18 -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:OlympicsMedals.self@7cd62f43]" name="setUpMethod" is-config="true" duration-ms="397" started-at="2018-07-07T14:54:09Z" finished-at="2018-07-07T14:54:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="rowColumn()[pri:4, instance:OlympicsMedals.self@7cd62f43]" name="rowColumn" duration-ms="859" started-at="2018-07-07T14:54:09Z" finished-at="2018-07-07T14:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rowColumn -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:OlympicsMedals.self@7cd62f43]" name="setUpMethod" is-config="true" duration-ms="429" started-at="2018-07-07T14:54:10Z" finished-at="2018-07-07T14:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="bronzeEqual18()[pri:5, instance:OlympicsMedals.self@7cd62f43]" name="bronzeEqual18" duration-ms="927" started-at="2018-07-07T14:54:10Z" finished-at="2018-07-07T14:54:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bronzeEqual18 -->
+      </class> <!-- OlympicsMedals.self -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
