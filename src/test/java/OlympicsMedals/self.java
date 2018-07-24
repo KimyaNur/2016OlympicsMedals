@@ -1,4 +1,4 @@
-package OlympicsMedals;
+ package OlympicsMedals;
 
 import static org.testng.Assert.assertEquals;
 import static org.testng.Assert.assertNotEquals;
